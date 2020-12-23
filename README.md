@@ -11,7 +11,7 @@
 
 - [ ] [타이타닉 튜토리얼 1 - exploratory data analysis, visualization, machine learning](https://kaggle-kr.tistory.com/17?category=868316)
 - [ ] [eda to prediction(dietanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
-- [ ] [titanic top 4% with ensemble modeling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
+- [] [titanic top 4% with ensemble modeling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
 - [ ] [introduction to ensembling/stacking in python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 
 ### [2nd level. Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
