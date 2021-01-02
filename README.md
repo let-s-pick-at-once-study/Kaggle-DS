@@ -23,7 +23,7 @@
 
 ### [3rd level. Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
 
-- [ ] [introduction: home credit default risk competition](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
+- [X] [introduction: home credit default risk competition](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
 - [ ] [introduction to manual feature engineering](https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering)
 - [ ] [stacking test-sklearn, xgboost, catboost, lightgbm](https://www.kaggle.com/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm)
 - [ ] [lightgbm 7th place solution](https://www.kaggle.com/jsaguiar/lightgbm-7th-place-solution)
