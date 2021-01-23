@@ -61,7 +61,7 @@
 ### [1st level. New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
 
 - [ ] [dynamics of new york city - animation](https://www.kaggle.com/drgilermo/dynamics-of-new-york-city-animation)
-- [ ] [eda + baseline model](https://www.kaggle.com/aiswaryaramachandran/eda-baseline-model-0-40-rmse)
+- [X] [eda + baseline model](https://www.kaggle.com/aiswaryaramachandran/eda-baseline-model-0-40-rmse)
 - [ ] [beat the benchmark!](https://www.kaggle.com/danijelk/beat-the-benchmark)
 
 ### [2nd level. Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.com/c/zillow-prize-1)
