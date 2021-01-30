@@ -66,10 +66,10 @@
 
 ### [2nd level. Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.com/c/zillow-prize-1)
 
-- [ ] [simple exploration notebook - zillow prize](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-zillow-prize)
+- [X] [simple exploration notebook - zillow prize](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-zillow-prize)
 - [ ] [simple xgboost starter (~0.0655)](https://www.kaggle.com/anokas/simple-xgboost-starter-0-0655)
 - [ ] [zillow eda on missing values & multicollinearity](https://www.kaggle.com/viveksrinivasan/zillow-eda-on-missing-values-multicollinearity)
-- [ ] [xgboost, lightgbm, and ols and nn](https://www.kaggle.com/aharless/xgboost-lightgbm-and-ols-and-nn)
+- [X] [xgboost, lightgbm, and ols and nn](https://www.kaggle.com/aharless/xgboost-lightgbm-and-ols-and-nn)
 
 ### Object segmentation: Deep learning
 
