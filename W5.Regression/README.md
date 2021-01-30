@@ -7,7 +7,6 @@
 
 
 #### 1. Understand the problem
-- 데이터 구성 살펴보기: Target 분포, 칼럼별 분포 및 특징 시각화
 ```python
 ```
 
@@ -24,7 +23,6 @@
 ```
 
 #### 5. Model Optimization
-- Hyperopt
 ```python
 ```
 
