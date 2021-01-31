@@ -11,7 +11,8 @@
 ```
 
 #### 2. Exploratory Data Analysis
-* 지도 시각화 - folium 라이브러리
+* 지도 시각화 - folium ( json파일 필요 - 데이터가 int가 아닌 float으로 표현되어 있어야 에러 안남 )
+* 참고 - geopandas
 ```python
 ```
 
