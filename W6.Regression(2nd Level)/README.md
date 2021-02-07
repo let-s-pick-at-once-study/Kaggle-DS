@@ -24,8 +24,11 @@
   - fill_value: 결측값을 무엇으로 대체할지, 값을 특정한다
 
 #### 4. Model Selection
-- **XGBoost**에서 feature importance: F score는 중요한 feature로 선택된 횟수 총합을 의미한다. 여기서 중요도 기준은 gini계수
-  - [참고](https://3months.tistory.com/169)
+- **XGBoost**에서 feature importance
+  1. `xgbmodel.plot_importance`: F score는 중요한 feature로 선택된 횟수 총합을 의미한다. 여기서 중요도 기준은 gini계수
+    - [참고](https://3months.tistory.com/169)
+  2. `xgbmodel.feature_importances_`: 원래 알고 있는 gini계수 기반의 feature importance 반환
+    - [참고](https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/)
 
 #### 5. Model Optimization
 - 모델 별 parameters
