@@ -24,6 +24,8 @@
   - fill_value: 결측값을 무엇으로 대체할지, 값을 특정한다
 
 #### 4. Model Selection
+- **XGBoost**에서 feature importance: F score는 중요한 feature로 선택된 횟수 총합을 의미한다. 여기서 중요도 기준은 gini계수
+  - [참고](https://3months.tistory.com/169)
 
 #### 5. Model Optimization
 - 모델 별 parameters
