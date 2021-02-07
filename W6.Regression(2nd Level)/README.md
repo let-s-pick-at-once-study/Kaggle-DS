@@ -46,5 +46,5 @@ params['num_leaves'] = 512        # num_leaf
 params['min_data'] = 500         # min_data_in_leaf
 params['min_hessian'] = 0.05     # min_sum_hessian_in_leaf
 params['verbose'] = 0
-params['feature_fraction_seed'
+params['feature_fraction_seed']
 ```
