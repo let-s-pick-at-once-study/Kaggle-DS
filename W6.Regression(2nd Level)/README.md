@@ -28,7 +28,7 @@
 #### 5. Model Optimization
 - 모델 별 parameters
 ##### LightGBM
-```
+```python
 params['max_bin'] = 10
 params['learning_rate'] = 0.0021 # shrinkage_rate
 params['boosting_type'] = 'gbdt'
